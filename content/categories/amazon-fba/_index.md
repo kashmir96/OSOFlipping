@@ -1,6 +1,9 @@
 ---
 title: "Amazon Fba"
 Description: "Are you looking to make extra money on the side? Check out how you can take advantage of Amazon's FBA program to start your own successful business. Learn how to get started today with our FBA guide!"
+cover: 
+ image: /img/categories/1.webp
+ alt: 
 
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Car Flipping"
 Description: "Make extra cash on the side through Car Flipping. This guide will let you in on the secrets behind this unique side hustle, and help you master the art of Car Flipping. Read our full guide to start making money fast!"
-
+cover: 
+ image: /img/categories/2.webp
+ alt: 
 ---
 
 "<h1>Car Flipping</h1>
