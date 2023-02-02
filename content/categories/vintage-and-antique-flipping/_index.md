@@ -1,7 +1,9 @@
 ---
 title: "Vintage And Antique Flipping"
 Description: "Make extra money on the side by flipping Vintage and Antique items! Discover tips and tricks to identify items of value, and learn how to maximize your profits. Keyword: Vintage and Antique Flipping"
-
+cover: 
+ image: /img/categories/21.webp
+ alt: 
 ---
 
 "<h1>Vintage And Antique Flipping</h1>

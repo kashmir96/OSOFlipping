@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Car Flipping", "Real Estate Flipping"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//258.webp
+ image: /img/online-arbitrage/258.webp
  alt: 'Real Estate Flipping A house with a for sale sign in front of it'
 ---
 ## Unlocking the Potential of Real Estate Flipping For Profit

@@ -1,7 +1,9 @@
 ---
 title: "Product Sourcing"
 Description: "Are you looking to make extra money on the side? Find out how product sourcing could help you on your journey to financial success. Discover the key benefits of product sourcing, and how it can benefit you with your entrepreneurial goals." Keyword: Product Sourcing."
-
+cover: 
+ image: /img/categories/19.webp
+ alt: 
 ---
 
 "<h1>Product Sourcing</h1>

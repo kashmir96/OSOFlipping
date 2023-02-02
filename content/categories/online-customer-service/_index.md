@@ -1,7 +1,9 @@
 ---
 title: "Online Customer Service"
 Description: "Online Customer Service for individuals looking to make extra money! Discover helpful tips and tricks for providing stellar Customer Service in an online setting. Get the help you need to set yourself up for success and make extra money on the side."
-
+cover: 
+ image: /img/categories/10.webp
+ alt: 
 ---
 
 "<h1>Online Customer Service</h1>

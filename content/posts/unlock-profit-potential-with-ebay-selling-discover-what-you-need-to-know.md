@@ -6,7 +6,7 @@ tags: ["eBay Selling"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//50.webp
+ image: /img/online-arbitrage/50.webp
  alt: 'Discover eBay Selling to unlock profit potential'
 ---
 ## Learn How to Maximize Your Profits by Selling on eBay

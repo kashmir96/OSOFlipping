@@ -1,7 +1,9 @@
 ---
 title: "Real Estate Flipping"
 Description: "Make extra money on the side with Real Estate Flipping! Learn what it takes to be successful in flipping real estate, and how to get started quickly. Find out why Real Estate Flipping is one of the best investments you can make!"
-
+cover: 
+ image: /img/categories/20.webp
+ alt: 
 ---
 
 "<h1>Real Estate Flipping</h1>

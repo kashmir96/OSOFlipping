@@ -6,7 +6,7 @@ tags: ["Online Flipping", "High-End Flipping", "Car Flipping", "Real Estate Flip
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//202.webp
+ image: /img/online-arbitrage/202.webp
  alt: 'Discover High-End Flips A guide to flipping items and making money like a pro'
 ---
 ## Making Money With High-End Flipping

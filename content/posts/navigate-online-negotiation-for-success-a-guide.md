@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//236.webp
+ image: /img/online-arbitrage/236.webp
  alt: 'Image of two hands shaking after successful online negotiation'
 ---
 ## A Guide to Succeeding in Online Negotiation

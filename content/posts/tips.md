@@ -10,7 +10,7 @@ tags: ["eBay Selling"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//328.webp
+ image: /img/online-arbitrage/328.webp
  alt: ''
 ---
 ## Maximize Your Business’s Potential through Selling on eBay

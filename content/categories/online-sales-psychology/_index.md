@@ -1,7 +1,9 @@
 ---
 title: "Online Sales Psychology"
 Description: "This page is an exploration of Online Sales Psychology, with advice and tips for individuals looking to make extra money on the side. Learn how psychological research can help you make more money online and discover how to remove any mental and emotional blocks to success. Keyword: Online Sales Psychology."
-
+cover: 
+ image: /img/categories/17.webp
+ alt: 
 ---
 
 "<h1>Online Sales Psychology</h1>

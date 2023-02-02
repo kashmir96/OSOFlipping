@@ -1,7 +1,9 @@
 ---
 title: "Online Market Research"
 Description: "Welcome to the Online Market Research page! Here you can learn about opportunities to make extra money on the side. We have a variety of different surveys and other activities for individuals to make extra money from home. Come explore the possibilities with us today!"
-
+cover: 
+ image: /img/categories/12.webp
+ alt: 
 ---
 
 "<h1>Online Market Research</h1>

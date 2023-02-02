@@ -6,7 +6,7 @@ tags: ["Online Flipping", "High-End Flipping", "Car Flipping", "Real Estate Flip
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//69.webp
+ image: /img/online-arbitrage/69.webp
  alt: 'High-End Flipping Learn how to update your home style with high-end design elements'
 ---
 ## Making Money with Upscale Home Goods

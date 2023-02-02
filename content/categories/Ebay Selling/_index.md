@@ -1,7 +1,9 @@
 ---
 title: "Ebay Selling"
 Description: "Make extra money on the side using eBay Selling! Learn how to utilize eBay to turn profits and increase your earning potential with this comprehensive guide. Keyword: eBay Selling."
-
+cover: 
+ image: /img/categories/3.webp
+ alt: 
 ---
 
 "<h1>Ebay Selling</h1>

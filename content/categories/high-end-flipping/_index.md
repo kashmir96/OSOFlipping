@@ -1,7 +1,9 @@
 ---
 title: "High-End Flipping"
 Description: "Looking to make extra money? High-End Flipping is a great way for individual entrepreneurs to make additional income on the side. Learn how to buy and resell goods for a profit and start earning money today!"
-
+cover: 
+ image: /img/categories/5.webp
+ alt: 
 ---
 
 "<h1>High-End Flipping</h1>

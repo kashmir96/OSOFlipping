@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//377.webp
+ image: /img/online-arbitrage/377.webp
  alt: 'Online Branding Strategies'
 ---
 ## Master the Art of Online Branding to Make Extra Money

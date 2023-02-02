@@ -1,7 +1,9 @@
 ---
 title: "Online Dropshipping"
 Description: "Make extra money with Online Dropshipping! Learn how you can start a side business with no special characters by harnessing the power of Online Dropshipping. Explore tips and tricks to maximize your success!"
-
+cover: 
+ image: /img/categories/11.webp
+ alt: 
 ---
 
 <h1>Online Dropshipping</h1>

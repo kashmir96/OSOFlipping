@@ -6,7 +6,7 @@ tags: ["eBay Selling", "Online Arbitrage", "Online Dropshipping", "Online Auctio
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//208.webp
+ image: /img/online-arbitrage/208.webp
  alt: 'Image of an online auction with a happy customer'
 ---
 ## Unlocking the Benefits of Online Auctions for Those Looking to Make Extra Money

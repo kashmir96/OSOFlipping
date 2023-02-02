@@ -1,7 +1,9 @@
 ---
 title: "Online Negotiation"
 Description: "Are you looking for a way to make some extra money on the side? Look no further! Our Online Negotiation resources can help you find the perfect online opportunities for you. Learn more about how to negotiate and make money online with our helpful resources."
-
+cover: 
+ image: /img/categories/13.webp
+ alt: 
 ---
 
 "<h1> Online Negotiation </h1>

@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//79.webp
+ image: /img/online-arbitrage/79.webp
  alt: 'Online Advertising Strategies for Growing Your Business'
 ---
 ## Clever Online Advertising Strategies to Grow Your Side Business

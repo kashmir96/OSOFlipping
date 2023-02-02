@@ -1,7 +1,9 @@
 ---
 title: "Online Advertising"
 Description: "Do you want to make extra money on the side? Our page explores the possibilities of using Online Advertising to help you achieve this! Read on for helpful tips and strategies to maximize your success in the online world."
-
+cover: 
+ image: /img/categories/6.webp
+ alt: 
 ---
 
 "<h1>Online Advertising</h1>

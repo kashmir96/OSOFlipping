@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//38.webp
+ image: /img/online-arbitrage/38.webp
  alt: 'Discover Online Dropshipping - Unlock Your Potential'
 ---
 ## Unlocking the Possibilities of Dropshipping 

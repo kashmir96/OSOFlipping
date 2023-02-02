@@ -1,7 +1,9 @@
 ---
 title: "Online Product Listing"
 Description: "Looking to make extra money on the side? Check out this Online Product Listing! With a diverse selection of products offered, you're sure to find something you'll love. Shop now to start making money."
-
+cover: 
+ image: /img/categories/14.webp
+ alt: 
 ---
 
 "<h1>Online Product Listing</h1>

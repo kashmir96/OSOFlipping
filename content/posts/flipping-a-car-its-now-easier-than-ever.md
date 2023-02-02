@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Car Flipping", "Real Estate Flipping"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//223.webp
+ image: /img/online-arbitrage/223.webp
  alt: 'Car Flipping'
 ---
 ## Easy Car Flipping for Profit 

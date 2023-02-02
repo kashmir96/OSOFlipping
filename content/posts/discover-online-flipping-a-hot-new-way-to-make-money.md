@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Online Arbitrage", "Online Dropshipping", "Car Flippi
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//186.webp
+ image: /img/online-arbitrage/186.webp
  alt: 'Discover Online Flipping A Hot New Way to Make Money'
 ---
 ## Making Money Online with Flipping

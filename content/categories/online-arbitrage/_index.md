@@ -1,7 +1,9 @@
 ---
 title: "Online Arbitrage"
 Description: "Make extra money on the side with Online Arbitrage! Learn how you can use arbitrage principles to create a passive income stream with no special characters required. No experience necessary!"
-
+cover: 
+ image: /img/categories/7.webp
+ alt: 
 ---
 
 <h1>Online Arbitrage</h1> 

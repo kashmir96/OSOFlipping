@@ -6,7 +6,7 @@ tags: ["Facebook Marketplace", "Online Market Research"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//126.webp
+ image: /img/online-arbitrage/126.webp
  alt: 'Facebook Marketplace'
 ---
 ## Get Ready to Make Money on Facebook Marketplace 

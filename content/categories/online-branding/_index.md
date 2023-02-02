@@ -1,7 +1,9 @@
 ---
 title: "Online Branding"
 Description: "Are you looking to make extra money on the side? Learn more about the various methods of Online Branding to help you reach your financial goals. With our helpful guide, you can take your side hustle to the next level!"
-
+cover: 
+ image: /img/categories/9.webp
+ alt: 
 ---
 
 "<h1>Online Branding</h1>

@@ -1,7 +1,9 @@
 ---
 title: "Online Shipping And Logistics"
 Description: "Discover how individuals can make extra money by taking advantage of Online Shipping and Logistics. Get insider tips that will help you make the most out of the process and maximize your profits!"
-
+cover: 
+ image: /img/categories/18.webp
+ alt: 
 ---
 
 <h1>Online Shipping And Logistics</h1>

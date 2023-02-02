@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//73.webp
+ image: /img/73.webp
  alt: 'Feature image of books and laptop focused on online retail arbitrage'
 ---
 ## Discover the Potential to Increase Your Profits with Online Retail Arbitrage 

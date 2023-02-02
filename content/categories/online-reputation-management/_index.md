@@ -1,7 +1,9 @@
 ---
 title: "Online Reputation Management"
 Description: "Are you looking to make extra money on the side? Discover how our Online Reputation Management services can help you protect and build your reputation online. Learn more to take control of your online presence."
-
+cover: 
+ image: /img/categories/16.webp
+ alt: 
 ---
 
 "<h1>Online Reputation Management</h1>

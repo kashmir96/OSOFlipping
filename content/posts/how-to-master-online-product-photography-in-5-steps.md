@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//99.webp
+ image: /img/online-arbitrage/99.webp
  alt: 'Online Product Photography'
 ---
 ## Master Online Product Photography in 5 Steps

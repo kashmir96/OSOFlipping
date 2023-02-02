@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//45.webp
+ image: /img/online-arbitrage/45.webp
  alt: 'Online Dropshipping - Making Money Online Through Dropshipping'
 ---
 ## Unlock the Profit Potential with Online Dropshipping

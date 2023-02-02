@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//31.webp
+ image: /img/online-arbitrage/31.webp
  alt: 'alt text content Discover Online Arbitrage'
 ---
 ## Making Money with Online Arbitrage From Home 

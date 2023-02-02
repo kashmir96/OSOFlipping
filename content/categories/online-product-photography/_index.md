@@ -1,7 +1,9 @@
 ---
 title: "Online Product Photography"
 Description: "Ready to make extra money on the side with online product photography? Learn how to get started with handy tips from experienced professionals. Perfect for individuals looking to create their own online product photography businesses and maximize their income potential."
-
+cover: 
+ image: /img/categories/15.webp
+ alt: 
 ---
 
 "<h1>Online Product Photography</h1>

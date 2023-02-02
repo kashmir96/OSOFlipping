@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Vintage and Antique Flipping", "Car Flipping", "Real 
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//39.webp
+ image: /img/online-arbitrage/39.webp
  alt: 'Image of vintage and antique flipping items like furniture jewelry and collectibles with text overlay reading Make a Profit Flipping Vintage Antique Items - Its Easier Than You Think'
 ---
 ## Start Flipping Vintage & Antique Items and Make Some Extra Money

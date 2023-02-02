@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Wholesale Flipping", "Car Flipping", "Real Estate Fli
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//269.webp
+ image: /img/online-arbitrage/269.webp
  alt: 'Two people flipping though a wholesale catalogue looking for bargains'
 ---
 ## Unlocking the Power of Flipping Wholesale Items for a Profit

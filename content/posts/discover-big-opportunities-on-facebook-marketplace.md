@@ -6,7 +6,7 @@ tags: ["Facebook Marketplace", "Online Market Research"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//374.webp
+ image: /img/online-arbitrage/374.webp
  alt: 'Discover Facebook Marketplace Big Opportunities Await'
 ---
 ## Unlock Financial Opportunities with Facebook Marketplace 

@@ -1,7 +1,9 @@
 ---
 title: "Online Flipping"
 Description: "Are you looking to make some extra money on the side? Online Flipping is the perfect way to do just that. Learn the ins and outs from experts and take away valuable tips and tricks to maximize your profits. Unlock the power of Online Flipping and get started today!"
-
+cover: 
+ image: /img/categories/12.webp
+ alt: 
 ---
 
 "<h1>Online Flipping</h1>

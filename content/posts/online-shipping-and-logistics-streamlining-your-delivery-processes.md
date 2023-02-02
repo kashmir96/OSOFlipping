@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//295.webp
+ image: /img/online-arbitrage/295.webp
  alt: 'Online Shipping and Logistics logo with a package in the center of the logo symbolizing a streamlined delivery process'
 ---
 ## Streamlining Your Delivery Processes for Additional Income 

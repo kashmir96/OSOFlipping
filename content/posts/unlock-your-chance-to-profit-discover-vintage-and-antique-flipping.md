@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Vintage and Antique Flipping", "Car Flipping", "Real 
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//254.webp
+ image: /img/online-arbitrage/254.webp
  alt: 'Discover Vintage and Antique Flipping'
 ---
 ## Unlock Your Profit Potential Through Flipping Vintage and Antique Items

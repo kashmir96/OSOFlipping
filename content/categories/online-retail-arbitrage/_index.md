@@ -1,7 +1,9 @@
 ---
 title: "Online Retail Arbitrage"
 Description: "Are you looking for a side gig to earn extra money? Look no further than Online Retail Arbitrage. This guide will teach you how to get started on the path to success in the online retail market. Learn about the risks and benefits of Online Retail Arbitrage today."
-
+cover: 
+ image: /img/categories/16.webp
+ alt: 
 ---
 
 "<h1>Online Retail Arbitrage</h1>

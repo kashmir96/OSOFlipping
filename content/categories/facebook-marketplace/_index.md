@@ -1,7 +1,9 @@
 ---
 title: "Facebook Marketplace"
 Description: "Facebook Marketplace is a great way for individuals to make extra money by selling items, items to trade, or services to others. It's easy to use and provides an amazing opportunity for anyone looking to make some extra cash. Jump in the marketplace today and find new ways to get the most out of your Facebook account."
-
+cover: 
+ image: /img/categories/4.webp
+ alt: 
 ---
 
 "<h1>Facebook Marketplace</h1>

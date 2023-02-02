@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//15.webp
+ image: /img/online-arbitrage/15.webp
  alt: 'Online Arbitrage Unlocking Opportunities in the Modern Marketplace'
 ---
 ## Taking Advantage of Online Arbitrage to Maximize Profit 

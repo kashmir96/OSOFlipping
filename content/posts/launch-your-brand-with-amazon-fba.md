@@ -6,7 +6,7 @@ tags: ["Amazon FBA"]
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//170.webp
+ image: /img/online-arbitrage/170.webp
  alt: 'is meant for accessibility
 
 Amazon FBA logo for launching your brand'

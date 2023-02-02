@@ -1,7 +1,9 @@
 ---
 title: "Wholesale Flipping"
 Description: "Unlock the secrets of Wholesale Flipping and learn how to use it to make extra money on the side. Discover easy, step-by-step instructions that can help you maximize your returns from Wholesale Flipping."
-
+cover: 
+ image: /img/categories/22.webp
+ alt: 
 ---
 
 "<h1>Wholesale Flipping</h1>

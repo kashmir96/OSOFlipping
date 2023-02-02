@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//78.webp
+ image: /img/online-arbitrage/78.webp
  alt: 'Illustration of an online marketing research study'
 ---
 ## Find Profitability In Your Market Research

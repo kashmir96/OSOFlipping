@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Online Arbitrage", "Online Dropshipping", "Online Auc
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//217.webp
+ image: /img/online-arbitrage/217.webp
  alt: 'Online Sales Psychology'
 ---
 ## Unlocking the Secrets of Online Sales Psychology to Increase Your Profits

@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//230.webp
+ image: /img/online-arbitrage/230.webp
  alt: 'Online Customer Service Experience Revolutionizing Your Strategies Tips'
 ---
 ## Step Up Your Online Customer Service for Increased Profits

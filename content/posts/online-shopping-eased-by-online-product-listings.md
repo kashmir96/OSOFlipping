@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//91.webp
+ image: /img/online-arbitrage/91.webp
  alt: 'Online Product Listing'
 ---
 ## Easier Online Shopping with Online Product Listings

@@ -6,7 +6,7 @@ tags: ["Online Flipping", "Online Arbitrage", "Online Dropshipping", "Car Flippi
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//242.webp
+ image: /img/online-arbitrage/242.webp
  alt: 'Online Flipping Unlock the profit potential'
 ---
 ## Maximizing Income Potential with Online Flipping

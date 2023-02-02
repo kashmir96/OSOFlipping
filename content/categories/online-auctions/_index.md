@@ -1,7 +1,9 @@
 ---
 title: "Online Auctions"
 Description: "Maximize your profits and join the booming online auctions market! Our platform offers individuals the perfect opportunity to make money on the side, without having to go through the hassle of a conventional job. Join us for a more flexible and profitable alternative - Online Auctions."
-
+cover: 
+ image: /img/categories/8.webp
+ alt: 
 ---
 
 "<h1>Online Auctions</h1>

@@ -6,7 +6,7 @@ tags: ["Online Arbitrage", "Online Dropshipping", "Online Auctions", "Online Ret
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//45.webp
+ image: /img/online-arbitrage/45.webp
  alt: 'Online Reputation Management feature image'
 ---
 ## How to Protect Your Side Hustle with Online Reputation Management

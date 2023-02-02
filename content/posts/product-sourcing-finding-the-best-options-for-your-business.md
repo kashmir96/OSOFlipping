@@ -6,7 +6,7 @@ tags: ["Wholesale Flipping", "Product Sourcing", "Online Retail Arbitrage", "Onl
 author: Curtis
 categories: ["Learn the Flipping Business"]
 cover: 
- image: /img//201.webp
+ image: /img/online-arbitrage/201.webp
  alt: 'Product Sourcing - Finding the Best Options for Your Business'
 ---
 ## Gather Sources to Unlock Your Profitable Business
