@@ -154,7 +154,7 @@ label.fcf-label {
 }
 
 .fcf-credit a:hover {
-    color: #0056b3;
+    color: #b30101;
     text-decoration: underline;
 }
 
@@ -196,21 +196,21 @@ label.fcf-label {
 
 .fcf-btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
+    background-color: #b31200;
+    border-color: #b31200;
 }
 
 .fcf-btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+    background-color: #b30101;
+    border-color: #b30101;
 }
 
 .fcf-btn-primary:focus, .fcf-btn-primary.focus {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
-    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+    background-color: #b30101;
+    border-color: #b30101;
+    box-shadow: 0 0 0 0.2rem rgba(255, 38, 38, 0.5);
 }
 
 .fcf-btn-lg, .fcf-btn-group-lg>.fcf-btn {
