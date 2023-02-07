@@ -56,10 +56,6 @@ background-size: cover;" class="banner row row-cols-lg-2 row-cols-1 gy-3 align-i
         </div>
     </div>
 </div>
-{{ end }}
-
-
-
 
 
 
@@ -78,3 +74,9 @@ background-size: cover;" class="banner row row-cols-lg-2 row-cols-1 gy-3 align-i
   <br><br>
   <input type="submit" value="Submit">
 </form> 
+
+{{ end }}
+
+
+
+
