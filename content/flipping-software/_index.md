@@ -58,3 +58,23 @@ background-size: cover;" class="banner row row-cols-lg-2 row-cols-1 gy-3 align-i
 </div>
 {{ end }}
 
+
+
+
+
+
+<form action="/generate_text" method="post">
+  <label for="product">What are you selling?</label>
+  <input type="text" id="product" name="product">
+  <br><br>
+  <label for="target_customer">Who would use it?</label>
+  <input type="text" id="target_customer" name="target_customer">
+  <br><br>
+  <label for="use_case">What would they use it for?</label>
+  <input type="text" id="use_case" name="use_case">
+  <br><br>
+  <label for="features">What are the key features of the item?</label>
+  <input type="text" id="features" name="features">
+  <br><br>
+  <input type="submit" value="Submit">
+</form> 
